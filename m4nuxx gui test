@@ -1580,7 +1580,7 @@ local function KVQC_fake_script() -- rainingm4.LocalScript
 							Resize(v, Vector3.new(50, 50, 30), v.CFrame)
 							MeshResize(v, Vector3.new(0.5, 0.5, 0.5))
 							SetMesh(v, "1347582902") -- Here put it A custom mesh
-							SetTexture(v, "71221090993023") -- X2
+							SetTexture(v, "113062750001704") -- X2
 							SetCollision(v, false)
 							v.Orientation = Vector3.new(0, 0, 0)
 	
